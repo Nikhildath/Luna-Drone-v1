@@ -1,8 +1,8 @@
 <!-- markdownlint-disable MD041 -->
 
 <p align="center">
-  <img src="docs/img/flix.svg" width=180 alt="Flix logo"><br>
-  <b>Flix</b> (<i>flight + X</i>) — open source ESP32-based quadcopter made from scratch.
+  <img src="docs/img/Luna%20Crescent%20Night%20Logo.png" width=280 alt="Luna logo"><br>
+  <b>Luna</b> — open source ESP32-based quadcopter made from scratch.
 </p>
 
 <table>
@@ -11,8 +11,8 @@
     <td align=center><strong>Version 0</strong></td>
   </tr>
   <tr>
-    <td><img src="docs/img/flix1.1.jpg" width=500 alt="Flix quadcopter"></td>
-    <td><img src="docs/img/flix.jpg" width=500 alt="Flix quadcopter"></td>
+    <td><img src="docs/img/flix1.1.jpg" width=500 alt="Luna quadcopter"></td>
+    <td><img src="docs/img/flix.jpg" width=500 alt="Luna quadcopter"></td>
   </tr>
 </table>
 
@@ -49,7 +49,7 @@ See the [user builds gallery](docs/user.md):
 
 ### PCB
 
-The official PCB *(Flix2)* is in development now. Follow the [project's channel](https://t.me/opensourcequadcopter) to track the progress.
+The official PCB *(Luna2)* is in development now. Follow the [project's channel](https://t.me/opensourcequadcopter) to track the progress.
 
 Outdoor flights demo video of the current prototype:
 
@@ -65,7 +65,7 @@ The position control feature is in development. RoboCamp 2026 demo (using an ove
 
 The simulator is implemented using Gazebo and runs the original Arduino code:
 
-<img src="docs/img/simulator1.png" width=500 alt="Flix simulator">
+<img src="docs/img/simulator1.png" width=500 alt="Luna simulator">
 
 ## Documentation articles
 
@@ -123,7 +123,7 @@ Feel free to modify the design and or code, and create your own improved version
 
 ### Simplified connection diagram
 
-<img src="docs/img/schematics1.svg" width=700 alt="Flix version 1 schematics">
+<img src="docs/img/schematics1.svg" width=700 alt="Luna version 1 schematics">
 
 *(Dashed elements are optional).*
 
